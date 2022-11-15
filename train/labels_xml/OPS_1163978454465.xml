@@ -1,0 +1,38 @@
+<annotation>
+	<folder>c1_95</folder>
+	<filename>OPS_1163978454465.png</filename>
+	<path>C:\Users\Uyen Nguyen\RealTimeObjectDetection\Tensorflow\workspace\images\c1_95\OPS_1163978390765.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plume</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>38</ymin>
+			<xmax>136</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plume</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>274</ymin>
+			<xmax>143</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>
